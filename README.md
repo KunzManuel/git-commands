@@ -23,7 +23,7 @@ $ git cleanup
 
 ### git-rbranch
 
-Creates a new local branch, does switch to the new branch and does push the new branch to the remote.
+Creates a new local branch, switches to the new branch and pushes the new branch to the remote.
 
 ```bash
 $ git rbranch feature/new-branch
